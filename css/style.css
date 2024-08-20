@@ -1,0 +1,10 @@
+*{
+    margin: 20px;
+}
+body{
+    background-color: darkgray;
+}
+h1{
+    color: red;
+    text-align: center;
+}
